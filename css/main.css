@@ -32,7 +32,9 @@ body {
       text-align: center;
       border-radius: 8px;
       padding: 4px;
-      border: none; }
+      border: none; 
+      max-width: 70%;
+}
 
 #update {
   margin: 0 auto;
