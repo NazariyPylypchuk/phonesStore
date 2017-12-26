@@ -1,0 +1,163 @@
+[
+    {
+        "imageUrl": "913201720152AM_635_iphone_x.jpeg",
+        "name": "Apple iPhone X",
+        "snippet": "iPhone X is a smartphone designed, developed, and marketed by Apple Inc. It was announced on September 12, 2017, alongside the iPhone 8 and iPhone 8 Plus at the Steve Jobs Theater in the Apple Park campus"
+    },
+    {
+        "imageUrl": "57a31411bd3b1.png",
+        "name": "Apple iPhone 4",
+        "snippet": "The iPhone 4 is a smartphone that was designed and marketed by Apple Inc. Following a number of notable leaks, the iPhone 4 was first unveiled on June 7, 2010, at Apple's Worldwide Developers Conference in San Francisco,[8] and was released on June 24, 2010, in the United States, United Kingdom, France, Germany and Japan. It is the 4th generation of iPhone, succeeding the 3GS and preceding the 4S."
+    },
+    {
+        "imageUrl": "Meizu-Pro-7-4-128-MTK-helio-X30-core-4-LTE-5-2-1080-P.jpg",
+        "name": "Meizu Pro 7",
+        "snippet": "Meizu's design concept and pursuit of perfection can be seen throughout the highly-detailed brushed texture1, the enhanced edge processing of the antenna, and the new sensor and receiver design. We have refined the essence of existing products with breathtaking and elaborate detail."
+    },
+    {
+        "age": 0,
+        "id": "motorola-xoom-with-wi-fi",
+        "imageUrl": "motorola_xoom_images_2806339.jpg",
+        "name": "Motorola XOOM with Wi-Fi",
+        "snippet": "The Next, Next Generation\r\n\r\nExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb)."
+    },
+    {
+        "age": 2,
+        "carrier": "AT&amp;T",
+        "id": "motorola-atrix-4g",
+        "imageUrl": "image.jpg",
+        "name": "MOTOROLA ATRIX 4G",
+        "snippet": "MOTOROLA ATRIX 4G the world's most powerful smartphone."
+    },
+    {
+        "age": 3,
+        "id": "dell-streak-7",
+        "imageUrl": "OriginalJPG.jpg",
+        "name": "Dell Streak 7",
+        "snippet": "Introducing Dell\u2122 Streak 7. Share photos, videos and movies together. It\u2019s small enough to carry around, big enough to gather around."
+    },
+    {
+        "age": 4,
+        "carrier": "Cellular South",
+        "id": "samsung-gem",
+        "imageUrl": "Samsung-Gem-sch-i100.jpg",
+        "name": "Samsung Gem",
+        "snippet": "The Samsung Gem\u2122 brings you everything that you would expect and more from a touch display smart phone \u2013 more apps, more features and a more affordable price."
+    },
+    {
+        "age": 5,
+        "carrier": "Dell",
+        "id": "dell-venue",
+        "imageUrl": "640fd9f82de327e5fab9cab9b29f82a6.jpg",
+        "name": "Dell Venue",
+        "snippet": "The Dell Venue; Your Personal Express Lane to Everything"
+    },
+    {
+        "age": 6,
+        "carrier": "Best Buy",
+        "id": "nexus-s",
+        "imageUrl": "Samsung_Nexus_S_4G_424_91731.jpg",
+        "name": "Nexus S",
+        "snippet": "Fast just got faster with Nexus S. A pure Google experience, Nexus S is the first phone to run Gingerbread (Android 2.3), the fastest version of Android yet."
+    },
+    {
+        "age": 7,
+        "carrier": "Cellular South",
+        "id": "lg-axis",
+        "imageUrl": "lg-axis.jpg",
+        "name": "LG Axis",
+        "snippet": "Android Powered, Google Maps Navigation, 5 Customizable Home Screens"
+    },
+    {
+        "age": 8,
+        "id": "samsung-galaxy-tab",
+        "imageUrl": "copy_samsung_sm_t820nzkasek_58beb76b73e4f_images_1876048715.jpg",
+        "name": "Samsung Galaxy Tab",
+        "snippet": "Feel Free to Tab. The Samsung Galaxy Tab\u2122 brings you an ultra-mobile entertainment experience through its 7\u201d display, high-power processor and Adobe\u00ae Flash\u00ae Player compatibility."
+    },
+    {
+        "age": 9,
+        "carrier": "Cellular South",
+        "id": "samsung-showcase-a-galaxy-s-phone",
+        "imageUrl": "samsung_galaxy_s_4_151730416406_640x360.jpg",
+        "name": "Samsung Showcase a Galaxy S phone",
+        "snippet": "The Samsung Showcase delivers a cinema quality experience like you\u2019ve never seen before. Its innovative 4\u201d touch display technology provides rich picture brilliance, even outdoors"
+    },
+    {
+        "age": 10,
+        "carrier": "Verizon",
+        "id": "droid-2-global-by-motorola",
+        "imageUrl": "droid2global2.jpg",
+        "name": "DROID 2 Global by Motorola",
+        "snippet": "The first smartphone with a 1.2 GHz processor and global capabilities."
+    },
+    {
+        "age": 11,
+        "carrier": "Verizon",
+        "id": "droid-pro-by-motorola",
+        "imageUrl": "Motorola-Droid-Pro.jpg",
+        "name": "DROID Pro by Motorola",
+        "snippet": "The next generation of DOES."
+    },
+    {
+        "age": 12,
+        "carrier": "AT&amp;T",
+        "id": "motorola-bravo-with-motoblur",
+        "imageUrl": "Motorola-BRAVO.jpg",
+        "name": "MOTOROLA BRAVO with MOTOBLUR",
+        "snippet": "An experience to cheer about."
+    },
+    {
+        "age": 13,
+        "carrier": "T-Mobile",
+        "id": "motorola-defy-with-motoblur",
+        "imageUrl": "foto_001.jpg",
+        "name": "Motorola DEFY with MOTOBLUR\u2122",
+        "snippet": "Are you ready for everything life throws your way?"
+    },
+    {
+        "age": 14,
+        "carrier": "T-Mobile",
+        "id": "t-mobile-mytouch-4g",
+        "imageUrl": "416anJOhW9L.jpg",
+        "name": "T-Mobile myTouch 4G",
+        "snippet": "The T-Mobile myTouch 4G is a premium smartphone designed to deliver blazing fast 4G speeds so that you can video chat from practically anywhere, with or without Wi-Fi."
+    },
+    {
+        "age": 15,
+        "carrier": "US Cellular",
+        "id": "samsung-mesmerize-a-galaxy-s-phone",
+        "imageUrl": "SamsungMesmerizeGalaxySSCHI500.jpg",
+        "name": "Samsung Mesmerize a Galaxy S\u2122 phone",
+        "snippet": "The Samsung Mesmerize\u2122 delivers a cinema quality experience like you\u2019ve never seen before. Its innovative 4\u201d touch display technology provides rich picture brilliance,even outdoors"
+    },
+    {
+        "age": 16,
+        "carrier": "Sprint",
+        "id": "sanyo-zio",
+        "imageUrl": "s-l225.jpg",
+        "name": "SANYO ZIO",
+        "snippet": "The Sanyo Zio by Kyocera is an Android smartphone with a combination of ultra-sleek styling, strong performance and unprecedented value."
+    },
+    {
+        "age": 17,
+        "id": "samsung-transform",
+        "imageUrl": "SamsungTransformUltraM930_thumb.jpg",
+        "name": "Samsung Transform",
+        "snippet": "The Samsung Transform\u2122 brings you a fun way to customize your Android powered touch screen phone to just the way you like it through your favorite themed \u201cSprint ID Service Pack\u201d."
+    },
+    {
+        "age": 18,
+        "id": "t-mobile-g2",
+        "imageUrl": "81HQttqkklL._SL1500_.jpg",
+        "name": "T-Mobile G2",
+        "snippet": "The T-Mobile G2 with Google is the first smartphone built for 4G speeds on T-Mobile's new network. Get the information you need, faster than you ever thought possible."
+    },
+    {
+        "age": 19,
+        "id": "motorola-charm-with-motoblur",
+        "imageUrl": "motorola_charm.jpeg",
+        "name": "Motorola CHARM with MOTOBLUR",
+        "snippet": "Motorola CHARM fits easily in your pocket or palm.  Includes MOTOBLUR service."
+    }
+]
